@@ -13,7 +13,7 @@ This is a solution to the [JavaScript Algorithms and Data Structures challenge o
   |:----------:|:----------:|:----------:|:----------:|
   | 1 | Roll playing game | [Link](https://gauravgorane.github.io/FCC_JS/Roll_Playing_Game/) | [Link](https://github.com/gauravgorane/FCC_JS/tree/main/Roll_Playing_Game)
   | 2 | Random background color changer | [Link](https://gauravgorane.github.io/FCC_JS/Random_Background_Color_Changer/) | [Link](https://github.com/gauravgorane/FCC_JS/tree/main/Random_Background_Color_Changer)
-  | 3 | Calorie counter | [Link](https://gauravgorane.github.io/BreadcrumbsFCC_JS/Calorie_Counter/) | [Link](https://github.com/gauravgorane/FCC_JS/tree/main/Calorie_Counter)
+  | 3 | Calorie counter | [Link](https://gauravgorane.github.io/FCC_JS/Calorie_Counter/) | [Link](https://github.com/gauravgorane/FCC_JS/tree/main/Calorie_Counter)
   | 4 | Rock paper scissors | [Link](https://gauravgorane.github.io/FCC_JS/Rock_Paper_Scissors/) | [Link](https://github.com/gauravgorane/FCC_JS/tree/main/Rock_Paper_Scissors)
   | 5 | Music player | [Link](https://gauravgorane.github.io/FCC_JS/Music_Player/) | [Link](https://github.com/gauravgorane/FCC_JS/tree/main/Music_Player)
   | 6 | Palindrome checker | [Link](https://gauravgorane.github.io/FCC_JS/Palindrome_checker/) | [Link](https://github.com/gauravgorane/FCC_JS/tree/main/Palindrome_checker)
