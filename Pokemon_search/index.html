@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pokémon Search App</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+    <div class="container">
+        <h1>Pokémon Search</h1>
+
+        <form class="input-group" id="input-group">
+            <input type="text" id="search-input" placeholder="Enter Pokémon ID" required>
+            <button id="search-button">Search</button>
+        </form>
+
+        <div class="pokemon-info">
+            <div class="pokemon-img" id="pokemon-img"></div>
+            <div class="pokemon-detail-info"><span>Name:</span><span id="pokemon-name"></span></div>
+            <div class="pokemon-detail-info"><span>ID:</span><span id="pokemon-id"></span></div>
+            <div class="pokemon-detail-info"><span>Weight:</span><span id="weight"></span></div>
+            <div class="pokemon-detail-info"><span>Height:</span><span id="height"></span></div>
+            <div class="pokemon-detail-info"><span>Types:</span><span id="types"></span></div>
+            <div class="stat"><span>HP:</span> <span id="hp">0</span></div>
+            <div class="stat"><span>Attack:</span> <span id="attack">0</span></div>
+            <div class="stat"><span>Defense:</span> <span id="defense">0</span></div>
+            <div class="stat"><span>Special Attack:</span> <span id="special-attack">0</span></div>
+            <div class="stat"><span>Special Defense:</span> <span id="special-defense">0</span></div>
+            <div class="stat"><span>Speed:</span> <span id="speed">0</span></div>
+        </div>
+
+        <div class="note danger">
+            <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24">
+                <path
+                    d="M12 5.177l8.631 15.823h-17.262l8.631-15.823zm0-4.177l-12 22h24l-12-22zm-1 9h2v6h-2v-6zm1 9.75c-.689 0-1.25-.56-1.25-1.25s.561-1.25 1.25-1.25 1.25.56 1.25 1.25-.561 1.25-1.25 1.25z" />
+            </svg>
+            Pokemon ID's [1-1025] then [10001-10277]
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
