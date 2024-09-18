@@ -29,7 +29,7 @@ This is a solution to the [JavaScript Algorithms and Data Structures challenge o
   | 16 | Telephone number validator | [Link](https://gauravgorane.github.io/FCC_JS/Telephone_number_validator) | [Link](https://github.com/gauravgorane/FCC_JS/tree/main/Telephone_number_validator)
   | 17 | Shopping cart | [Link](https://gauravgorane.github.io/FCC_JS/Shopping_cart/) | [Link](https://github.com/gauravgorane/FCC_JS/tree/main/Shopping_cart)
   | 18 | Platformer game | [Link](https://gauravgorane.github.io/FCC_JS/Platformer_game/) | [Link](https://github.com/gauravgorane/FCC_JS/tree/main/Platformer_game)
-  | 19 | Dice game | [Link](https://gauravgorane.github.io/FCC_JS/Dice_game/) | [Link](https://github.com/gauravgorane/FCC_JS/tree/main/Dice_game)
+  | 19 | Advanced dice game | [Link](https://gauravgorane.github.io/FCC_JS/Advanced_dice_game/) | [Link](https://github.com/gauravgorane/FCC_JS/tree/main/Advanced_dice_game)
   | 20 | Cash register | [Link](https://gauravgorane.github.io/FCC_JS/Cash_register/) | [Link](https://github.com/gauravgorane/FCC_JS/tree/main/Cash_register)
   | 21 | News author page | [Link](https://gauravgorane.github.io/FCC_JS/News_author_page/) | [Link](https://github.com/gauravgorane/FCC_JS/tree/main/News_author_page)
   | 22 | Forum leadboard | [Link](https://gauravgorane.github.io/FCC_JS/Forum_leadboard/) | [Link](https://github.com/gauravgorane/FCC_JS/tree/main/Forum_leadboard)
